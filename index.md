@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 欢迎来到我们的大创主页
+title: welcome
 ---
 
 # 🎉 欢迎来到 FSWQZ 大创项目主页！
