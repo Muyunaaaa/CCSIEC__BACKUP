@@ -1,2 +1,2 @@
 # CCSIEC__Project
-Our team's backip project files 
+Our team's CCSIEC project files 
