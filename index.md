@@ -10,3 +10,4 @@ title: welcome
 - [项目介绍](about.md)
 - [使用手册](docs/guide.md)
 - [下载论文 📄](docs/paper.pdf)
+- [关于我们】(docs/about.md)
