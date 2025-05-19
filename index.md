@@ -11,4 +11,4 @@ title: Welcome!
 - [使用手册](docs/guide.md)
 - [下载论文 📄](docs/paper.pdf)
 - [关于我们](docs/about.md)
-- [相关概念拓展](docs/results/concept.md)
+- [相关概念拓展](docs/results/concept.pdf)
